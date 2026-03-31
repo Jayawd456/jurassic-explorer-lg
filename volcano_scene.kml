@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Volcano Scene</name>
+
+    <Placemark>
+      <name>Jurassic Volcano</name>
+      <description>Active volcanic region during dinosaur era.</description>
+      <Point>
+        <coordinates>120.0,-5.0,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
