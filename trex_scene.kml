@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>T-Rex Scene</name>
+
+    <Placemark>
+      <name>Tyrannosaurus Rex</name>
+      <description>Large carnivorous dinosaur from the late Cretaceous period.</description>
+      <Point>
+        <coordinates>-100.0,40.0,0</coordinates>
+      </Point>
+    </Placemark>
+
+  </Document>
+</kml>
